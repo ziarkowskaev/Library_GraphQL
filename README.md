@@ -26,3 +26,4 @@ npm run dev
 
 Both server and frontend side must be running at the same time. 
 
+<img width="890" height="462" alt="image" src="https://github.com/user-attachments/assets/43d54cde-ca58-4eba-acca-876fec346b41" />
